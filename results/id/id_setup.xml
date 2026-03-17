@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSimDocument Version="40000">
+    <InverseDynamicsTool name="id">
+        <model_file>c:\Users\L03508435\Documents\opensim_project\results\scaling\scaled_model.osim</model_file>
+        <results_directory>c:\Users\L03508435\Documents\opensim_project\results\id</results_directory>
+        <output_precision>8</output_precision>
+        <initial_time>0.0</initial_time>
+        <final_time>2.5</final_time>
+        <external_loads_file>c:\Users\L03508435\Documents\opensim_project\opensimFiles\Gait2354_Simbody\subject01_walk1_grf.xml</external_loads_file>
+        <coordinates_file>c:\Users\L03508435\Documents\opensim_project\results\ik\subject01_walk1_ik.mot</coordinates_file>
+        <lowpass_cutoff_frequency_for_coordinates>6</lowpass_cutoff_frequency_for_coordinates>
+        <output_gen_force_file>subject01_walk1_id.sto</output_gen_force_file>
+    </InverseDynamicsTool>
+</OpenSimDocument>

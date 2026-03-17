@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSimDocument Version="40000">
+    <RRATool name="rra">
+        <model_file>c:\Users\L03508435\Documents\opensim_project\results\scaling\scaled_model.osim</model_file>
+        <replace_force_set>true</replace_force_set>
+        <force_set_files>c:\Users\L03508435\Documents\opensim_project\opensimFiles\Gait2354_Simbody\gait2354_RRA_Actuators.xml</force_set_files>
+        <results_directory>c:\Users\L03508435\Documents\opensim_project\results\rra</results_directory>
+        <output_precision>8</output_precision>
+        <initial_time>0.1</initial_time>
+        <final_time>1.6</final_time>
+        <maximum_number_of_integrator_steps>20000</maximum_number_of_integrator_steps>
+        <maximum_integrator_step_size>1</maximum_integrator_step_size>
+        <minimum_integrator_step_size>1e-8</minimum_integrator_step_size>
+        <integrator_error_tolerance>1e-5</integrator_error_tolerance>
+        <solve_for_equilibrium_for_auxiliary_states>false</solve_for_equilibrium_for_auxiliary_states>
+        <external_loads_file>c:\Users\L03508435\Documents\opensim_project\results\rra\external_loads.xml</external_loads_file>
+        <desired_kinematics_file>c:\Users\L03508435\Documents\opensim_project\results\ik\subject01_walk1_ik.mot</desired_kinematics_file>
+        <task_set_file>c:\Users\L03508435\Documents\opensim_project\opensimFiles\Gait2354_Simbody\gait2354_RRA_Tasks.xml</task_set_file>
+        <lowpass_cutoff_frequency>-1</lowpass_cutoff_frequency>
+        <adjust_com_to_reduce_residuals>false</adjust_com_to_reduce_residuals>
+        <adjusted_com_body>torso</adjusted_com_body>
+        <output_model_file>c:\Users\L03508435\Documents\opensim_project\results\rra\subject01_simbody_adjusted.osim</output_model_file>
+    </RRATool>
+</OpenSimDocument>

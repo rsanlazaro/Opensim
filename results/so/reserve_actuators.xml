@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSimDocument Version="40000">
+    <ForceSet name="reserve_actuators">
+        <objects>
+            <CoordinateActuator name="reserve_pelvis_tx">
+                <coordinate>pelvis_tx</coordinate>
+                <optimal_force>100</optimal_force>
+                <min_control>-infinity</min_control>
+                <max_control>infinity</max_control>
+            </CoordinateActuator>
+            <CoordinateActuator name="reserve_pelvis_ty">
+                <coordinate>pelvis_ty</coordinate>
+                <optimal_force>1</optimal_force>
+                <min_control>-infinity</min_control>
+                <max_control>infinity</max_control>
+            </CoordinateActuator>
+            <CoordinateActuator name="reserve_pelvis_tz">
+                <coordinate>pelvis_tz</coordinate>
+                <optimal_force>1</optimal_force>
+                <min_control>-infinity</min_control>
+                <max_control>infinity</max_control>
+            </CoordinateActuator>
+            <CoordinateActuator name="reserve_pelvis_tilt">
+                <coordinate>pelvis_tilt</coordinate>
+                <optimal_force>1</optimal_force>
+                <min_control>-infinity</min_control>
+                <max_control>infinity</max_control>
+            </CoordinateActuator>
+            <CoordinateActuator name="reserve_pelvis_list">
+                <coordinate>pelvis_list</coordinate>
+                <optimal_force>1</optimal_force>
+                <min_control>-infinity</min_control>
+                <max_control>infinity</max_control>
+            </CoordinateActuator>
+            <CoordinateActuator name="reserve_pelvis_rotation">
+                <coordinate>pelvis_rotation</coordinate>
+                <optimal_force>1</optimal_force>
+                <min_control>-infinity</min_control>
+                <max_control>infinity</max_control>
+            </CoordinateActuator>
+            <CoordinateActuator name="reserve_lumbar_extension">
+                <coordinate>lumbar_extension</coordinate>
+                <optimal_force>1</optimal_force>
+                <min_control>-infinity</min_control>
+                <max_control>infinity</max_control>
+            </CoordinateActuator>
+            <CoordinateActuator name="reserve_lumbar_bending">
+                <coordinate>lumbar_bending</coordinate>
+                <optimal_force>1</optimal_force>
+                <min_control>-infinity</min_control>
+                <max_control>infinity</max_control>
+            </CoordinateActuator>
+            <CoordinateActuator name="reserve_lumbar_rotation">
+                <coordinate>lumbar_rotation</coordinate>
+                <optimal_force>1</optimal_force>
+                <min_control>-infinity</min_control>
+                <max_control>infinity</max_control>
+            </CoordinateActuator>
+        </objects>
+        <groups />
+    </ForceSet>
+</OpenSimDocument>
