@@ -2,6 +2,8 @@
 
 This project implements a complete biomechanical analysis pipeline using OpenSim and Python. It processes motion capture data through five sequential steps: Scaling, Inverse Kinematics, Residual Reduction Analysis, Inverse Dynamics, and Static Optimization.
 
+Software download for students with access: https://tecmx-my.sharepoint.com/:u:/g/personal/rafael_sanlazaro_tec_mx/IQDXTNErxxuASqxBhzpJ-pX8AWsdccmf34eXXIkxGxH60ts?e=OXbCOu
+
 ## Project Structure
 
 ```

@@ -3927,3 +3927,153 @@
 [2026-03-16 21:24:26.701] [info] Frame at (t = 0.5):	 total squared error = 0.0, marker error: RMS = -nan, max = 0.0 ()
 [2026-03-16 21:24:26.701] [info] Moved markers in model model to match locations in marker file './opensimFiles/Gait2354_Simbody/subject01_static.trc'.
 [2026-03-16 21:24:26.718] [info] Wrote model file 'results/scaling\scaled_model.osim' from model model.
+[2026-03-17 19:44:56.293] [info] Updating Model file from 40000 to latest format...
+[2026-03-17 19:44:56.305] [info] Loaded model 3DGaitModel2354 from file ./opensimFiles/Gait2354_Simbody/gait2354_simbody.osim
+[2026-03-17 19:44:56.305] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-03-17 19:44:56.306] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-03-17 19:44:56.306] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-03-17 19:44:56.307] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-03-17 19:44:56.307] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-03-17 19:44:56.308] [warning] Couldn't find file 'fibula.vtp'.
+[2026-03-17 19:44:56.308] [warning] Couldn't find file 'talus.vtp'.
+[2026-03-17 19:44:56.308] [warning] Couldn't find file 'foot.vtp'.
+[2026-03-17 19:44:56.308] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-03-17 19:44:56.309] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-03-17 19:44:56.309] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-03-17 19:44:56.309] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-03-17 19:44:56.310] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-03-17 19:44:56.310] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-03-17 19:44:56.311] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-03-17 19:44:56.311] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-03-17 19:44:56.311] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-03-17 19:44:56.311] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-03-17 19:44:56.312] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-03-17 19:44:56.368] [info] Updated markers in model 3DGaitModel2354
+[2026-03-17 19:44:56.395] [info] Processing subject ...
+[2026-03-17 19:44:56.395] [info] Step 1: Loading generic model
+[2026-03-17 19:44:56.416] [info] Loaded model 3DGaitModel2354 from file c:\Users\L03508435\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\Workshops\Opensim\results\scaling\model_with_markers.osim
+[2026-03-17 19:44:56.417] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-03-17 19:44:56.417] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-03-17 19:44:56.417] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-03-17 19:44:56.418] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-03-17 19:44:56.418] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-03-17 19:44:56.418] [warning] Couldn't find file 'fibula.vtp'.
+[2026-03-17 19:44:56.419] [warning] Couldn't find file 'talus.vtp'.
+[2026-03-17 19:44:56.419] [warning] Couldn't find file 'foot.vtp'.
+[2026-03-17 19:44:56.419] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-03-17 19:44:56.420] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-03-17 19:44:56.420] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-03-17 19:44:56.420] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-03-17 19:44:56.421] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-03-17 19:44:56.421] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-03-17 19:44:56.422] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-03-17 19:44:56.422] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-03-17 19:44:56.422] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-03-17 19:44:56.423] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-03-17 19:44:56.423] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-03-17 19:44:56.429] [info] Step 2: Scaling generic model
+[2026-03-17 19:44:56.451] [info] Step 3: Placing markers on model
+[2026-03-17 19:44:56.507] [info] Loaded marker file ./opensimFiles/Gait2354_Simbody/subject01_static.trc (49 markers, 300 frames)
+[2026-03-17 19:44:56.507] [info] Averaged frames from time 0.5 to 1.5 in ./opensimFiles/Gait2354_Simbody/subject01_static.trc (frames 31 to 91)
+[2026-03-17 19:44:56.507] [info] Deleted 0 unused markers from model model.
+[2026-03-17 19:45:02.411] [info] Updating Model file from 40000 to latest format...
+[2026-03-17 19:45:02.421] [info] Loaded model 3DGaitModel2354 from file ./opensimFiles/Gait2354_Simbody/gait2354_simbody.osim
+[2026-03-17 19:45:02.422] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-03-17 19:45:02.423] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-03-17 19:45:02.423] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-03-17 19:45:02.424] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-03-17 19:45:02.424] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-03-17 19:45:02.425] [warning] Couldn't find file 'fibula.vtp'.
+[2026-03-17 19:45:02.425] [warning] Couldn't find file 'talus.vtp'.
+[2026-03-17 19:45:02.426] [warning] Couldn't find file 'foot.vtp'.
+[2026-03-17 19:45:02.426] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-03-17 19:45:02.427] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-03-17 19:45:02.427] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-03-17 19:45:02.428] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-03-17 19:45:02.428] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-03-17 19:45:02.429] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-03-17 19:45:02.429] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-03-17 19:45:02.429] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-03-17 19:45:02.430] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-03-17 19:45:02.430] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-03-17 19:45:02.430] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-03-17 19:45:02.473] [info] Updated markers in model 3DGaitModel2354
+[2026-03-17 19:45:02.496] [info] Processing subject ...
+[2026-03-17 19:45:02.496] [info] Step 1: Loading generic model
+[2026-03-17 19:45:02.519] [info] Loaded model 3DGaitModel2354 from file c:\Users\L03508435\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\Workshops\Opensim\results\scaling\model_with_markers.osim
+[2026-03-17 19:45:02.519] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-03-17 19:45:02.520] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-03-17 19:45:02.520] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-03-17 19:45:02.520] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-03-17 19:45:02.521] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-03-17 19:45:02.521] [warning] Couldn't find file 'fibula.vtp'.
+[2026-03-17 19:45:02.521] [warning] Couldn't find file 'talus.vtp'.
+[2026-03-17 19:45:02.522] [warning] Couldn't find file 'foot.vtp'.
+[2026-03-17 19:45:02.522] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-03-17 19:45:02.522] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-03-17 19:45:02.522] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-03-17 19:45:02.523] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-03-17 19:45:02.523] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-03-17 19:45:02.523] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-03-17 19:45:02.523] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-03-17 19:45:02.523] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-03-17 19:45:02.524] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-03-17 19:45:02.524] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-03-17 19:45:02.524] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-03-17 19:45:02.530] [info] Step 2: Scaling generic model
+[2026-03-17 19:45:02.550] [info] Step 3: Placing markers on model
+[2026-03-17 19:45:02.602] [info] Loaded marker file ./opensimFiles/Gait2354_Simbody/subject01_static.trc (49 markers, 300 frames)
+[2026-03-17 19:45:02.602] [info] Averaged frames from time 0.5 to 1.5 in ./opensimFiles/Gait2354_Simbody/subject01_static.trc (frames 31 to 91)
+[2026-03-17 19:45:02.603] [info] Deleted 0 unused markers from model model.
+[2026-03-17 19:45:05.607] [info] Updating Model file from 40000 to latest format...
+[2026-03-17 19:45:05.618] [info] Loaded model 3DGaitModel2354 from file ./opensimFiles/Gait2354_Simbody/gait2354_simbody.osim
+[2026-03-17 19:45:05.619] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-03-17 19:45:05.620] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-03-17 19:45:05.620] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-03-17 19:45:05.621] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-03-17 19:45:05.621] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-03-17 19:45:05.622] [warning] Couldn't find file 'fibula.vtp'.
+[2026-03-17 19:45:05.622] [warning] Couldn't find file 'talus.vtp'.
+[2026-03-17 19:45:05.622] [warning] Couldn't find file 'foot.vtp'.
+[2026-03-17 19:45:05.623] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-03-17 19:45:05.623] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-03-17 19:45:05.624] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-03-17 19:45:05.624] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-03-17 19:45:05.625] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-03-17 19:45:05.625] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-03-17 19:45:05.625] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-03-17 19:45:05.626] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-03-17 19:45:05.626] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-03-17 19:45:05.626] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-03-17 19:45:05.626] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-03-17 19:45:05.668] [info] Updated markers in model 3DGaitModel2354
+[2026-03-17 19:45:05.687] [info] Processing subject ...
+[2026-03-17 19:45:05.687] [info] Step 1: Loading generic model
+[2026-03-17 19:45:05.707] [info] Loaded model 3DGaitModel2354 from file c:\Users\L03508435\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\Workshops\Opensim\results\scaling\model_with_markers.osim
+[2026-03-17 19:45:05.707] [warning] Couldn't find file 'sacrum.vtp'.
+[2026-03-17 19:45:05.708] [warning] Couldn't find file 'pelvis.vtp'.
+[2026-03-17 19:45:05.708] [warning] Couldn't find file 'l_pelvis.vtp'.
+[2026-03-17 19:45:05.708] [warning] Couldn't find file 'femur_r.vtp'.
+[2026-03-17 19:45:05.709] [warning] Couldn't find file 'tibia_r.vtp'.
+[2026-03-17 19:45:05.709] [warning] Couldn't find file 'fibula.vtp'.
+[2026-03-17 19:45:05.709] [warning] Couldn't find file 'talus.vtp'.
+[2026-03-17 19:45:05.709] [warning] Couldn't find file 'foot.vtp'.
+[2026-03-17 19:45:05.709] [warning] Couldn't find file 'bofoot.vtp'.
+[2026-03-17 19:45:05.710] [warning] Couldn't find file 'femur_l.vtp'.
+[2026-03-17 19:45:05.710] [warning] Couldn't find file 'tibia_l.vtp'.
+[2026-03-17 19:45:05.710] [warning] Couldn't find file 'l_fibula.vtp'.
+[2026-03-17 19:45:05.710] [warning] Couldn't find file 'l_talus.vtp'.
+[2026-03-17 19:45:05.711] [warning] Couldn't find file 'l_foot.vtp'.
+[2026-03-17 19:45:05.711] [warning] Couldn't find file 'l_bofoot.vtp'.
+[2026-03-17 19:45:05.711] [warning] Couldn't find file 'hat_spine.vtp'.
+[2026-03-17 19:45:05.711] [warning] Couldn't find file 'hat_jaw.vtp'.
+[2026-03-17 19:45:05.712] [warning] Couldn't find file 'hat_skull.vtp'.
+[2026-03-17 19:45:05.712] [warning] Couldn't find file 'hat_ribs.vtp'.
+[2026-03-17 19:45:05.717] [info] Step 2: Scaling generic model
+[2026-03-17 19:45:05.737] [info] Step 3: Placing markers on model
+[2026-03-17 19:45:05.789] [info] Loaded marker file ./opensimFiles/Gait2354_Simbody/subject01_static.trc (49 markers, 300 frames)
+[2026-03-17 19:45:05.789] [info] Averaged frames from time 0.5 to 1.5 in ./opensimFiles/Gait2354_Simbody/subject01_static.trc (frames 31 to 91)
+[2026-03-17 19:45:05.790] [info] Deleted 0 unused markers from model model.
+[2026-03-17 19:45:05.797] [info] Frame at (t = 0.5):	 total squared error = 0.0, marker error: RMS = -nan, max = 0.0 ()
+[2026-03-17 19:45:05.797] [info] Moved markers in model model to match locations in marker file './opensimFiles/Gait2354_Simbody/subject01_static.trc'.
+[2026-03-17 19:45:05.817] [info] Wrote model file 'results/scaling\scaled_model.osim' from model model.

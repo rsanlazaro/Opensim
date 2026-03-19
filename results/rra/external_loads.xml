@@ -20,6 +20,6 @@
             </ExternalForce>
         </objects>
         <groups />
-        <datafile>c:\Users\L03508435\Documents\opensim_project\opensimFiles\Gait2354_Simbody\subject01_walk1_grf.mot</datafile>
+        <datafile>c:\Users\L03508435\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\Workshops\Opensim\opensimFiles\Gait2354_Simbody\subject01_walk1_grf.mot</datafile>
     </ExternalLoads>
 </OpenSimDocument>
