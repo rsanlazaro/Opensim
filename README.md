@@ -4,6 +4,8 @@ This project implements a complete biomechanical analysis pipeline using OpenSim
 
 Software download for students with access: https://tecmx-my.sharepoint.com/:u:/g/personal/rafael_sanlazaro_tec_mx/IQDXTNErxxuASqxBhzpJ-pX8AWsdccmf34eXXIkxGxH60ts?e=OXbCOu
 
+Video of the workshop: https://teams.microsoft.com/l/meetingrecap?driveId=b%21zPs-tQF-ekCcXY1yGVIndvffwJnIqb1OgVarrwjvF3490OQqPjb1TY-Ry9tCqOeH&driveItemId=01L73QO4QFZN7BYG5Z2FFZQ77TY5SPRL5N&sitePath=https%3A%2F%2Ftecmx.sharepoint.com%2Fsites%2FTalleres_e51e70%2FShared+Documents%2FGeneral%2FRecordings%2FReuni%C3%B3n+en+General-20260319_130711-Grabaci%C3%B3n+de+la+reuni%C3%B3n.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Ftecmx.sharepoint.com%2Fsites%2FTalleres_e51e70%2FShared+Documents%2FGeneral%2FRecordings%2FReuni%C3%B3n+en+General-20260319_130711-Grabaci%C3%B3n+de+la+reuni%C3%B3n.mp4%3Fweb%3D1&threadId=19%3AYwJRekToiw5k5o_2txXf61d_kqhAvDhMhF-6qeXDVB41%40thread.tacv2&organizerId=d33c5e6f-210c-4aa9-ace4-76b9594579ab&tenantId=c65a3ea6-0f7c-400b-8934-5a6dc1705645&callId=5ca49983-fcef-4418-b782-c79395019cf4&threadType=space&meetingType=MeetNow&organizerGroupId=93702dc8-9a0f-48d8-85b4-5efb0bdd4d92&channelType=Standard&replyChainId=1773947106231&subType=RecapSharingLink_RecapCore
+
 ## Project Structure
 
 ```
